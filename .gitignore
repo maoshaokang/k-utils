@@ -1,0 +1,5 @@
+ .Ds_Store
+node_modules
+test
+build/docs/
+package-lock.json
